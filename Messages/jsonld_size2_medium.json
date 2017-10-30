@@ -1,0 +1,232 @@
+{
+
+	  "@id" : "example1TESS005-UCM",
+	  "@type" : [ "s4envi:TESS", "owl:NamedIndividual" ],
+	  "label" : {
+	    "@language" : "en",
+	    "@value" : "TESS photometer stars5"
+	  },
+	  "location" : "example1LocationTESS005-UCM",
+	  "hasManufacturer" : "Universidad Complutense de Madrid",
+	  "hasName" : "stars5",
+	  "exposes" : "example1PowerProfileTESS005-UCM",
+	  "hasFrequencyMeasurement" : "example1FequencyMeasurementTESS005-UCM",
+	  "hasTransmissionPeriod" : "example1TransmissionPeriodTESS005-UCM",
+	  "hasVersion" : "v1",
+	  "makesMeasurement" : [ 
+		
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:30TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:30 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:30",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:31TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:31 TESS005-UCM"
+		  },
+		  "hasValue" : "0.2",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:31",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:32TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:32 TESS005-UCM"
+		  },
+		  "hasValue" : "0.3",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:32",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+ 
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:33TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:33 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:33",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:34TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:34 TESS005-UCM"
+		  },
+		  "hasValue" : "0.9",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:34",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:30TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:30 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:30",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:31TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:31 TESS005-UCM"
+		  },
+		  "hasValue" : "0.2",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:31",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:32TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:32 TESS005-UCM"
+		  },
+		  "hasValue" : "0.3",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:32",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+ 
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:33TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:33 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:33",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "@id" : "example1Measurement2016-10-05T08:15:34TESS005-UCM",
+		  "@type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "@language" : "en",
+		    "@value" : "Measurement 2016-10-05T08:15:34 TESS005-UCM"
+		  },
+		  "hasValue" : "0.9",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:34",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		}
+
+		],
+	  "measuresProperty" : "s4envi:LightMagnitude",
+	  "usesCommunicationInterface" : [ "example1Bluetoothv2-1", "example1Wi-Fiv802-11ah", "example1RS232v24" ],
+	  "usesCommunicationProtocol" : "example1MQTT-Broker",
+	  "@context" : {
+	    "exposes" : {
+	      "@id" : "https://w3id.org/saref4ee#exposes",
+	      "@type" : "@id"
+	    },
+	    "hasVersion" : {
+	      "@id" : "https://w3id.org/saref4envi#hasVersion"
+	    },
+	    "hasTransmissionPeriod" : {
+	      "@id" : "https://w3id.org/saref4envi#hasTransmissionPeriod",
+	      "@type" : "@id"
+	    },
+	    "makesMeasurement" : {
+	      "@id" : "https://w3id.org/saref4envi#makesMeasurement",
+	      "@type" : "@id"
+	    },
+	    "label" : {
+	      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+	    },
+	    "hasFrequencyMeasurement" : {
+	      "@id" : "https://w3id.org/saref4envi#hasFrequencyMeasurement",
+	      "@type" : "@id"
+	    },
+	    "location" : {
+	      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#location",
+	      "@type" : "@id"
+	    },
+	    "hasName" : {
+	      "@id" : "https://w3id.org/saref#hasName"
+	    },
+	    "usesCommunicationProtocol" : {
+	      "@id" : "https://w3id.org/saref4envi#usesCommunicationProtocol",
+	      "@type" : "@id"
+	    },
+	    "measuresProperty" : {
+	      "@id" : "https://w3id.org/saref4envi#measuresProperty",
+	      "@type" : "@id"
+	    },
+	    "usesCommunicationInterface" : {
+	      "@id" : "https://w3id.org/saref4envi#usesCommunicationInterface",
+	      "@type" : "@id"
+	    },
+	    "hasManufacturer" : {
+	      "@id" : "https://w3id.org/saref#hasManufacturer"
+	    },
+	    "relatesToProperty" : {
+	      "@id" : "https://w3id.org/saref4envi#relatesToProperty",
+	      "@type" : "@id"
+	    },
+	    "isMeasuredIn" : {
+	      "@id" : "https://w3id.org/saref#isMeasuredIn",
+	      "@type" : "@id"
+	    },
+	    "hasTimestamp" : {
+	      "@id" : "https://w3id.org/saref4envi#hasTimestamp",
+	      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime"
+	    },
+	    "hasValue" : {
+	      "@id" : "https://w3id.org/saref#hasValue",
+	      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+	    },
+	    "wurvoc" : "http://www.wurvoc.org/vocabularies/om-1.8/",
+	    "owl" : "http://www.w3.org/2002/07/owl#",
+	    "saref" : "https://w3id.org/saref#",
+	    "xsd" : "http://www.w3.org/2001/XMLSchema#",
+	    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+	    "geo" : "http://www.w3.org/2003/01/geo/wgs84_pos#",
+	    "s4envi" : "https://w3id.org/saref4envi#",
+	    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+	    "xml" : "http://www.w3.org/XML/1998/namespace",
+	    "dcterms" : "http://purl.org/dc/terms/",
+	    "time" : "http://www.w3.org/2006/time#",
+	    "vann" : "http://purl.org/vocab/vann/",
+	    "prov" : "http://www.w3.org/ns/prov#",
+	    "s4ener" : "https://w3id.org/saref4ee#",
+	    "dc" : "http://purl.org/dc/elements/1.1/"
+	  }
+	
+}
+
+

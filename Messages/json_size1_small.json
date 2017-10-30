@@ -1,0 +1,20 @@
+{
+
+	  "id" : "example1TESS005-UCM",
+	  "label" : {
+	    "language" : "en",
+	    "value" : "TESS photometer stars5"
+	  },
+	  
+	  "makesMeasurement" : [ 
+		
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:30TESS005-UCM",
+		  "hasValue" : "0.1",
+		  "hasTimestamp" : "2016-10-05T08:15:30"		  
+		}
+ 
+		]	
+}
+
+

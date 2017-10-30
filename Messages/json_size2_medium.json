@@ -1,0 +1,156 @@
+{
+
+	  "id" : "example1TESS005-UCM",
+	  "type" : [ "s4envi:TESS", "owl:NamedIndividual" ],
+	  "label" : {
+	    "language" : "en",
+	    "value" : "TESS photometer stars5"
+	  },
+	  "location" : "example1LocationTESS005-UCM",
+	  "hasManufacturer" : "Universidad Complutense de Madrid",
+	  "hasName" : "stars5",
+	  "exposes" : "example1PowerProfileTESS005-UCM",
+	  "hasFrequencyMeasurement" : "example1FequencyMeasurementTESS005-UCM",
+	  "hasTransmissionPeriod" : "example1TransmissionPeriodTESS005-UCM",
+	  "hasVersion" : "v1",
+	  "makesMeasurement" : [ 
+		
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:30TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:30 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:30",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:31TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:31 TESS005-UCM"
+		  },
+		  "hasValue" : "0.2",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:31",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:32TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:32 TESS005-UCM"
+		  },
+		  "hasValue" : "0.3",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:32",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+ 
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:33TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:33 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:33",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:34TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:34 TESS005-UCM"
+		  },
+		  "hasValue" : "0.9",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:34",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:30TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:30 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:30",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:31TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:31 TESS005-UCM"
+		  },
+		  "hasValue" : "0.2",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:31",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:32TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:32 TESS005-UCM"
+		  },
+		  "hasValue" : "0.3",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:32",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+ 
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:33TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:33 TESS005-UCM"
+		  },
+		  "hasValue" : "0.1",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:33",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		},
+
+		{
+		  "id" : "example1Measurement2016-10-05T08:15:34TESS005-UCM",
+		  "type" : [ "owl:NamedIndividual", "s4envi:Measurement" ],
+		  "label" : {
+		    "language" : "en",
+		    "value" : "Measurement 2016-10-05T08:15:34 TESS005-UCM"
+		  },
+		  "hasValue" : "0.9",
+		  "isMeasuredIn" : "example1mgPerarcsec2",
+		  "hasTimestamp" : "2016-10-05T08:15:34",
+		  "relatesToProperty" : "s4envi:LightMagnitude" 
+		}
+
+
+		],
+	  "measuresProperty" : "s4envi:LightMagnitude",
+	  "usesCommunicationInterface" : [ "example1Bluetoothv2-1", "example1Wi-Fiv802-11ah", "example1RS232v24" ],
+	  "usesCommunicationProtocol" : "example1MQTT-Broker"
+	
+}
+
+
